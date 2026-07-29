@@ -1,11 +1,14 @@
-# GitHub Learning
+## Projects
 
-## About Me
+### Flutter Food Delivery App
 
-I am learning Flutter, Java and Data Structures & Algorithms.
+- Built using Flutter and Firebase
+- Added user authentication
+- Created responsive UI
+- Integrated Firebase services
 
- add-my-profile
-This repository is created to learn GitHub workflow and Pull Requests.
+### Counter App
 
-This repository is created to learn GitHub workflow and Pull Requests.
- main
+- Developed using Flutter
+- Implemented state management using setState()
+- Added login page and UI features
